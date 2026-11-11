@@ -8,8 +8,8 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: procedimentos-obstetricos-2025
-    path: data/procedimentos-obstetricos-2025.csv
+    name: procedimentos-obstetricos
+    path: data/procedimentos-obstetricos.csv
     profile: tabular-data-resource
     schema:
       fields:
